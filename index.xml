@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog</title>
-    <link>http://example.org/</link>
+    <link>https://gokulac.github.io/hugo-da/</link>
     <description>Recent content on Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Jun 2021 16:28:56 +0530</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://gokulac.github.io/hugo-da/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Hugo da</title>
-      <link>http://example.org/posts/instructions/</link>
+      <link>https://gokulac.github.io/hugo-da/posts/instructions/</link>
       <pubDate>Fri, 11 Jun 2021 16:28:56 +0530</pubDate>
       
-      <guid>http://example.org/posts/instructions/</guid>
+      <guid>https://gokulac.github.io/hugo-da/posts/instructions/</guid>
       <description>Instructions
 Setting up a Hugo Site
 suda apt install hugo Random Cities  Toronto Oshawa British Columbia     Name Score Comments     Talha 7 Vaa thala   Varun 10 Enjoy Enjaami    </description>
